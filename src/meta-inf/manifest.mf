@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: mkyong
+Build-Jdk: 17.0.5
+Created-By: Apache Maven
+Main-Class: org.algo.me.Main
