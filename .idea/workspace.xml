@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e046e8b2-635c-4adc-978b-054e8bc577b0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/imdb.omAxAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/imdb.omAxAA/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/imdb.omAxAA/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/postgres.edMnLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/postgres.edMnLQ/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/postgres.edMnLQ/schema/pg_catalog.0S1ZNQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/me/Greddy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/algo/me/MojoClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/1288c9a3-c933-4757-becb-c1344a21e60a/storage_v2/_src_/database/postgres.edMnLQ/schema/public.abK9xQ.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/meta-inf/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/src/meta-inf/manifest.mf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +67,8 @@
       <option name="presentableId" value="Default" />
       <updated>1677059513388</updated>
       <workItem from="1677059515972" duration="9172000" />
-      <workItem from="1677152697257" duration="3372000" />
+      <workItem from="1677152697257" duration="7502000" />
+      <workItem from="1677411761196" duration="2933000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: mkyong
+Built-By: zakiBen
 Build-Jdk: 17.0.5
 Created-By: Apache Maven
 Main-Class: org.algo.me.Main
